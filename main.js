@@ -1,5 +1,5 @@
 const squares = document.querySelectorAll('.square');
-const startScroll = 650; // Выставлял центр на глаз, на других мониторах может отличаться.
+const startScroll = 750;
 const endScroll = 1000;
 
 window.addEventListener('scroll', () => {
